@@ -1,5 +1,7 @@
 var customerName = 'bob'
 
-function upperCaseCustomerName(customerName){
-    return upperCaseCustomerName('BOB');
+function upperCaseCustomerName(){
+    return customerName = 'BOB'
 }
+
+
